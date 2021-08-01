@@ -1,7 +1,13 @@
 <LINK REL="stylesheet" TYPE="text/css" HREF="estilo.css">
 <h1 align="center">Hi 👋, I'm Alejandro Jameson</h1>
 <h2 align="center">Full Stack Developer</h2>
-<img src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" />
+<div align="center">
+    <img src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" style= "
+        color:rgba(255, 255, 255, 0.986);
+        height: 280px;
+        width: 900px;
+        background-position: 25% 50%;"/>
+</div>        
 <!-- <div align="center" style="background-image: url('https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067');" height="200">
     <h1 align="center" style="background-color:black">Hi 👋, I'm Alejandro Jameson</h1>
 </div>   -->  
