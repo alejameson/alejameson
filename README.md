@@ -1,15 +1,21 @@
 <LINK REL="stylesheet" TYPE="text/css" HREF="estilo.css">
-<h1 align="center" style="color:#87CEEB">Hi 👋, I'm Alejandro Jameson</h1>
+<h1 align="center" style="color:#87CEEB">Hola 👋
+🌎, Soy Alejandro Jameson</h1>
 <h2 align="center" style="color:#87CEEB">Full Stack Developer</h2>
 <div align="center">
     <img src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" style= "
         color:rgba(255, 255, 255, 0.986);
         height: 250px;
         width: 900px;
-        background-position: 25% 50%;"/>
+        background-position: 25% 50%;" alt="me"/>
 </div>        
+<h2 align="center" style="color:#FF6961">Sobre Mi:</h2>
+<h4 align="center">⚫ En constante aprendizaje sobre nuevas tecnologias</h4>
+<h4 align="center">⚫ Estudiante en Henry y de Lic. en Ciencias de la Computacion</h4>
+<h4 align="center">⚫ Poseo facilidad de adaptacion en cualquier equipo, situacion y ambiente de trabajo</h4>
+<h4 align="center">⚫ Pasion por programar 💻, por la musica 🎸 y por resolver acertijos o problemas 🧩</h4>
 
-<h2 align="center" style="color:#FF6961">Skills:</h2>
+<h2 align="center" style="color:#FF6961">Habilidades:</h2>
 <p align="center"> 
     <a href="https://babeljs.io/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
