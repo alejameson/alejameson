@@ -10,12 +10,18 @@
         background-position: 25% 50%;" alt="me"/>
 </div>        
 <h2 align="center" style="color:#FF6961">Sobre Mi:</h2>
-<h4 align="center">⚫ En constante aprendizaje sobre nuevas tecnologias</h4>
-<h4 align="center">⚫ Estudiante en Henry y de Lic. en Ciencias de la Computacion</h4>
-<h4 align="center">⚫ Poseo facilidad de adaptacion en cualquier equipo, situacion y ambiente de trabajo</h4>
-<h4 align="center">⚫ Pasion por programar 💻, por la musica 🎸 y por resolver acertijos o problemas 🧩</h4>
+<div style= "
+        position: relative;
+        left: 70vh;
+        margin: 1.5vh;
+        width: 550px;">
+<h4 align="center" style="display: flex; justify-content: flex-start">⚫ En constante aprendizaje sobre nuevas tecnologias</h4>
+<h4 align="center" style="display: flex; justify-content: flex-start">⚫ Estudiante en Henry y de Lic. en Ciencias de la Computacion</h4>
+<h4 align="center" style="display: flex; justify-content: flex-start">⚫ Poseo facilidad de adaptacion en cualquier equipo, situacion y ambiente de trabajo</h4>
+<h4 align="center" style="display: flex; justify-content: flex-start">⚫ Pasion por programar 💻, por la musica 🎸 y por resolver acertijos o problemas 🧩</h4>
+</div>
 
-<h2 align="center" style="color:#FF6961">Habilidades:</h2>
+<h2 align="center" style="color:#FF6961;  margin: 2vh">Habilidades:</h2>
 <p align="center"> 
     <a href="https://babeljs.io/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
@@ -62,4 +68,14 @@
     <a href="https://www.typescriptlang.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a> 
+</p>
+<h2 align="center" style="color:#FF6961; margin: 1.5vh">Contactame:</h2>
+<p align="center"> 
+    <a href="https://www.linkedin.com/in/alejandro-jameson/" target="_blank"> 
+        <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="babel" width="40" height="40"/> 
+        <h3 align="center">https://www.linkedin.com/in/alejandro-jameson/</h3>
+    </a>
+    <p align="center"> 
+        <img src="https://freepikpsd.com/media/2019/10/telefono-celular-logo-png-4-Transparent-Images.png" alt="cel" width="40" height="40" style="margin: 2vh;"/>
+        <h3 align="center">+54 (264) 483 3561</h3>
 </p>
